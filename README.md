@@ -1,17 +1,62 @@
-# Hi 👋, I'm Sushanta
+# 👋 Hey, I'm **Sushanta**
 
-<h3 align="left">Connect with me:</h3>
+🚀 **Backend Engineer | DevOps | Distributed Systems | Cloud Native**
+
+I love building scalable systems, automating infrastructure, and working with modern backend technologies.
+
+---
+
+## 🌐 Connect with Me  
 <p align="left">
-<a href="https://github.com/0xsushanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="0xsushanta" height="30" width="40" /></a>
-<a href="https://twitter.com/0xsushanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xsushanta" height="30" width="40" /></a>
+  <a href="https://github.com/0xsushanta" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://twitter.com/0xsushanta" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsushanta&show_icons=true&locale=en&layout=compact" alt="0xsushanta" /></p>
+## 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="45"/>
+  <img src="https://skillicons.dev/icons?i=c" width="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="45"/>
+  <img src="https://skillicons.dev/icons?i=kafka" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="45"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="45"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xsushanta&show_icons=true&locale=en" alt="0xsushanta" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsushanta&" alt="0xsushanta" /></p>
+## 📊 GitHub Stats  
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=0xsushanta&show_icons=true&theme=tokyonight" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsushanta&layout=compact&theme=tokyonight" height="165" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xsushanta&theme=tokyonight" height="165" />
+
+</div>
+
+---
+
+## 🚀 About Me  
+- 🧠 Interested in **system design, distributed systems, and cloud-native tooling**  
+- ⚙️ Love working with **Node.js, Go, Kubernetes, Docker, Kafka, Redis**  
+- 🔥 Always learning, always building  
 
