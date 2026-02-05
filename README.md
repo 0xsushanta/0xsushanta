@@ -8,7 +8,6 @@
   <a href="https://twitter.com/0xsushanta" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sushanta-ruidas" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -18,8 +17,8 @@
 
 ## 🛠️ Skills
 
-<p align="center" width="500">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,bun,nodejs,express,mongodb,postgres,prisma,redis,docker,kubernetes,aws,git,rust,bash,kafka&perline=9" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,bun,nodejs,express,mongodb,postgres,prisma,redis,docker,kubernetes,grafana,prometheus,aws,git,rust,bash,kafka&perline=10" />
 </p>
 
 <p align="center">
