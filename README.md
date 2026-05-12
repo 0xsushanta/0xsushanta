@@ -1,5 +1,9 @@
 <h1 align="center"> 0xsushanta 🦀</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xsushanta&label=Profile%20views&color=0e75b6&style=flat" alt="0xsushanta"/>
+</p>
+
 ---
 
 ## 🤝 Social Links
@@ -24,4 +28,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Anchor-24292F?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xsushanta&theme=dark&hide_border=true&layout=compact" />
 </p>
